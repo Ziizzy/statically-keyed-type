@@ -1,0 +1,1 @@
+pub mod statically_keyed_type;
